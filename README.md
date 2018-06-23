@@ -11,6 +11,7 @@ which will produce
 
 ```
 project
+├── .ctags
 ├── LICENSE
 ├── project.dhall
 └── README.md
