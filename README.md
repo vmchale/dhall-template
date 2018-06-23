@@ -6,3 +6,12 @@ A templated project for [pi](http://github.com/vmchale/project-init). To use:
 curl -LSfs https://japaric.github.io/trust/install.sh | sh -s -- --git vmchale/project-init
 pi git vmchale/dhall-template project
 ```
+
+which will produce
+
+```
+project
+├── LICENSE
+├── project.dhall
+└── README.md
+```
