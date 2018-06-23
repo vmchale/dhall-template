@@ -1,0 +1,2 @@
+files = [ "{{ project }}.dhall" ]
+templates = [ ".ctags" ]
