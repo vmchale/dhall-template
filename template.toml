@@ -4,3 +4,6 @@ with_readme = true
 [files]
 files = [ "{{ project }}.dhall" ]
 templates = [ ".ctags" ]
+
+[config]
+version = "0.1.0"
