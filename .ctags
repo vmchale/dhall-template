@@ -3,4 +3,4 @@
 --regex-DHALL=/let *([[:lower:]][[:alnum:]_]+)/\1/f,function/
 --regex-DHALL=/let *([[:upper:]][[:alnum:]_]+)/\1/t,type/
 --regex-DHALL=/< *([[:upper:]][[:alnum:]_]+)/\1/t,type/
---regex-DHALL=/| *([[:upper:]][[:alnum:]_]+)/\1/t,type/
+--regex-DHALL=/\| *([[:upper:]][[:alnum:]_]+)/\1/t,type/
